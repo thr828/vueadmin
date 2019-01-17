@@ -1,0 +1,13 @@
+　　vuejs2.0：渐进式JavaScript框架，易用、灵活、高效，似乎任何规模的应用都适用。
+
+　　element：基于vuejs2.0的ui组件库。
+
+　　vue-router：一般单页面应用spa都要用到的前端路由。
+
+　　vuex：Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式。
+
+
+https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%8A%9F%E8%83%BD
+
+
+https://segmentfault.com/a/1190000010043013
